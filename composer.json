@@ -1,5 +1,5 @@
 {
-    "name": "adeelblink/newsapi",
+    "name": "jcobhams/newsapi",
     "description": "A PHP client for NewsApi",
     "keywords": ["NewsApi"],
     "type": "library",
